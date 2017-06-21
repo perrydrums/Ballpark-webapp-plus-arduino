@@ -1,0 +1,15 @@
+body{
+    background-color: #1C91DD;
+}
+
+#score{
+    font: 25vw Tahoma;
+    color: #FFF;
+    text-align: center;
+}
+
+h1{
+    font: 5vw Tahoma;
+    color: #FFF;
+    text-align: center;
+}

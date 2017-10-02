@@ -1,7 +1,7 @@
 # Ballpark-webapp-plus-arduino
 School project. Connectivity between an Arduino and a webserver. Instagram API integration.
 
-Februari-March 2017
+February-March 2017
 
 
 First attempt at making a mobile webapplication. I used jQuery Mobile (sorry) 
